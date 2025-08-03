@@ -1,3 +1,35 @@
+# 🚀 Fuel My Flow – A Patreon-Style Creator Support Platform
+
+A full-stack donation and creator support platform inspired by Patreon, allowing users to support creators through secure payments, follow them, and explore creative content — all in a sleek, modern UI.
+
+> Built with ❤️ using Next.js 14 (App Router), MongoDB, Razorpay, and Tailwind CSS.
+
+---
+
+## 🌟 Features
+
+- 🔐 **Creator Profiles** with dynamic routes (`/creator/username`)
+- 💸 **Razorpay Payment Gateway** for secure donations
+- 🧾 **User Authentication** (NextAuth.js)
+- 🌐 **Dynamic Routing** using Next.js App Router
+- 🗂️ **MongoDB Integration** for creators & donation history
+- 🧠 **Responsive Design** using Tailwind CSS
+- 📚 Clean file structure for scalability and collaboration
+
+---
+
+## ⚙️ Tech Stack
+
+| Technology     | Purpose                                |
+|----------------|----------------------------------------|
+| **Next.js 14** | Frontend & Backend (App Router)        |
+| **MongoDB**    | Creator & Donation Data Storage        |
+| **NextAuth.js**| Authentication System                  |
+| **Razorpay**   | Payment Gateway                        |
+| **Tailwind CSS** | Modern UI Styling                   |
+| **React Icons**| Iconography                            |
+
+---
 This is a [Next.js](https://nextjs.org) project bootstrapped with [`create-next-app`](https://github.com/vercel/next.js/tree/canary/packages/create-next-app).
 
 ## Getting Started
